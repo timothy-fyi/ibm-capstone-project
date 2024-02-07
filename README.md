@@ -24,4 +24,4 @@ skills for an entry-level role in data analytics
 - Data Visualization with Python
 - IBM Data Analyst Capstone Project
 
-**Credential link:** https://www.coursera.org/account/accomplishments/specialization/certificate/GES4VAELUNDZ
+**Credential link:** available on my LinkedIn (this link contains personal information, and my Github account is more public than my LinkedIn)
